@@ -1,0 +1,40 @@
+INFO - 2023-06-22 01:35:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-22 01:35:35 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 72.
+ 1 APPPATH\Controllers\Sensor.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 72)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.191', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-22 01:35:56 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 72.
+ 1 APPPATH\Controllers\Sensor.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 72)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.191', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-22 01:36:18 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 72.
+ 1 APPPATH\Controllers\Sensor.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 72)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.191', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-22 01:36:39 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 72.
+ 1 APPPATH\Controllers\Sensor.php(72): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 72)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.191', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-06-22 01:36:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-22 01:36:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-22 01:36:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-22 01:36:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-22 01:37:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-22 01:39:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-22 01:55:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

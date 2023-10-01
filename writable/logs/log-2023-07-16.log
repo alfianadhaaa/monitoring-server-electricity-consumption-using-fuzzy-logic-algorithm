@@ -1,0 +1,1481 @@
+INFO - 2023-07-16 17:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 17:17:38 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 76.
+ 1 APPPATH\Controllers\Sensor.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.101', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 17:17:59 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 76.
+ 1 APPPATH\Controllers\Sensor.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.101', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 17:18:20 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 76.
+ 1 APPPATH\Controllers\Sensor.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.101', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 17:18:42 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 76.
+ 1 APPPATH\Controllers\Sensor.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.101', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 17:18:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 17:19:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 17:19:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 17:55:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 18:04:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 18:58:36 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 89.
+ 1 APPPATH\Controllers\Sensor.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 89)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.198', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 18:58:36 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 89.
+ 1 APPPATH\Controllers\Sensor.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 89)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.198', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 18:58:36 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 89.
+ 1 APPPATH\Controllers\Sensor.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 89)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.198', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 18:58:37 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 89.
+ 1 APPPATH\Controllers\Sensor.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 89)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.198', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 19:01:37 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 89.
+ 1 APPPATH\Controllers\Sensor.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 89)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.198', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 19:01:37 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 89.
+ 1 APPPATH\Controllers\Sensor.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 89)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.198', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 19:01:37 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 89.
+ 1 APPPATH\Controllers\Sensor.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 89)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.198', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 19:01:37 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 89.
+ 1 APPPATH\Controllers\Sensor.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 89)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.198', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 19:04:37 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 89.
+ 1 APPPATH\Controllers\Sensor.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 89)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.198', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 19:04:37 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 89.
+ 1 APPPATH\Controllers\Sensor.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 89)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.198', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 19:04:38 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 89.
+ 1 APPPATH\Controllers\Sensor.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 89)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.198', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 19:04:38 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 89.
+ 1 APPPATH\Controllers\Sensor.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 89)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.198', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+ERROR - 2023-07-16 19:15:44 --> mysqli_sql_exception: Column 'status' in where clause is ambiguous in D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Tugas Akhir\Codeigniter\monelis\app\Models\AlertModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Tugas Akhir\Codeigniter\monelis\app\Controllers\Dashboard.php(30): App\Models\AlertModel->get_chart_data()
+#6 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+#7 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tugas Akhir\Codeigniter\monelis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tugas Akhir\Codeigniter\monelis\system\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\...')
+#11 {main}
+CRITICAL - 2023-07-16 19:15:44 --> Column 'status' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = \'non_checked\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = \'non_checked\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = \'non_checked\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = :status:', [...], false)
+ 5 APPPATH\Models\AlertModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(30): App\Models\AlertModel->get_chart_data()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+ERROR - 2023-07-16 19:16:47 --> mysqli_sql_exception: Column 'status' in where clause is ambiguous in D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Tugas Akhir\Codeigniter\monelis\app\Models\AlertModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Tugas Akhir\Codeigniter\monelis\app\Controllers\Dashboard.php(30): App\Models\AlertModel->get_chart_data()
+#6 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+#7 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tugas Akhir\Codeigniter\monelis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tugas Akhir\Codeigniter\monelis\system\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\...')
+#11 {main}
+CRITICAL - 2023-07-16 19:16:47 --> Column 'status' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = \'non_checked\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = \'non_checked\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = \'non_checked\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = :status:', [...], false)
+ 5 APPPATH\Models\AlertModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(30): App\Models\AlertModel->get_chart_data()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+ERROR - 2023-07-16 19:17:09 --> mysqli_sql_exception: Column 'status' in where clause is ambiguous in D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Tugas Akhir\Codeigniter\monelis\app\Models\AlertModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Tugas Akhir\Codeigniter\monelis\app\Controllers\Dashboard.php(30): App\Models\AlertModel->get_chart_data()
+#6 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+#7 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tugas Akhir\Codeigniter\monelis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tugas Akhir\Codeigniter\monelis\system\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\...')
+#11 {main}
+CRITICAL - 2023-07-16 19:17:09 --> Column 'status' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = \'non_checked\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = \'non_checked\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = \'non_checked\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = :status:', [...], false)
+ 5 APPPATH\Models\AlertModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(30): App\Models\AlertModel->get_chart_data()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+ERROR - 2023-07-16 19:20:13 --> mysqli_sql_exception: Column 'status' in where clause is ambiguous in D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Tugas Akhir\Codeigniter\monelis\app\Models\AlertModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Tugas Akhir\Codeigniter\monelis\app\Controllers\Dashboard.php(30): App\Models\AlertModel->get_chart_data()
+#6 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+#7 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tugas Akhir\Codeigniter\monelis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tugas Akhir\Codeigniter\monelis\system\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\...')
+#11 {main}
+CRITICAL - 2023-07-16 19:20:13 --> Column 'status' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = \'non_checked\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = \'non_checked\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = \'non_checked\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = :status:', [...], false)
+ 5 APPPATH\Models\AlertModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(30): App\Models\AlertModel->get_chart_data()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+ERROR - 2023-07-16 19:20:32 --> mysqli_sql_exception: Column 'status' in where clause is ambiguous in D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Tugas Akhir\Codeigniter\monelis\app\Models\AlertModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Tugas Akhir\Codeigniter\monelis\app\Controllers\Dashboard.php(30): App\Models\AlertModel->get_chart_data()
+#6 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+#7 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tugas Akhir\Codeigniter\monelis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tugas Akhir\Codeigniter\monelis\system\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\...')
+#11 {main}
+CRITICAL - 2023-07-16 19:20:32 --> Column 'status' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = \'non_checked\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = \'non_checked\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = \'non_checked\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = :status:', [...], false)
+ 5 APPPATH\Models\AlertModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(30): App\Models\AlertModel->get_chart_data()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+ERROR - 2023-07-16 19:22:32 --> mysqli_sql_exception: Column 'status' in where clause is ambiguous in D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Tugas Akhir\Codeigniter\monelis\app\Models\AlertModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Tugas Akhir\Codeigniter\monelis\app\Controllers\Dashboard.php(30): App\Models\AlertModel->get_chart_data()
+#6 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+#7 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tugas Akhir\Codeigniter\monelis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tugas Akhir\Codeigniter\monelis\system\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\...')
+#11 {main}
+CRITICAL - 2023-07-16 19:22:32 --> Column 'status' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = \'non_checked\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = \'non_checked\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = \'non_checked\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `alert`
+JOIN `devices` ON `devices`.`id_device`=`alert`.`id_device`
+WHERE `status` = :status:', [...], false)
+ 5 APPPATH\Models\AlertModel.php(23): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(30): App\Models\AlertModel->get_chart_data()
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 19:23:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 20:10:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 20:18:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 21:29:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 21:29:56 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.198', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:30:18 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.198', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:30:39 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.198', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:31:01 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.198', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 21:31:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 21:31:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 21:31:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 21:31:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 21:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 21:39:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 21:39:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 21:39:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 21:39:36 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:39:37 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:39:37 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:39:37 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 21:39:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 21:39:38 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:39:38 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:39:39 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:39:39 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 21:39:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 21:39:39 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:39:40 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:39:40 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:39:40 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 21:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 21:39:41 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:39:41 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:39:41 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:39:41 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 21:39:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 21:39:42 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:39:42 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:39:42 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:39:42 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 21:39:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 21:39:45 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:39:45 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:39:45 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:39:45 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 21:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 21:39:46 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:39:46 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:39:46 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:39:46 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 21:41:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 21:41:04 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:41:04 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:41:04 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:41:04 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 21:41:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 21:41:07 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:41:07 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:41:07 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:41:07 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 21:41:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 21:41:08 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:41:08 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:41:09 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:41:09 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 21:43:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 21:43:51 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:43:51 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:43:51 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:43:51 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:09 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:09 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:09 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:09 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:11 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:12 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:12 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:12 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 21:44:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 21:44:13 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:13 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:14 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:14 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:15 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:15 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:16 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:16 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 21:44:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 21:44:27 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:27 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:27 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:27 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:35 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:35 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:35 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:44:35 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 21:45:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 21:45:04 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:45:04 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:45:04 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:45:04 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 21:45:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 21:45:16 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:45:16 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:45:16 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:45:16 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:25 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:25 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:26 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:26 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:27 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:27 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:27 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:27 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:28 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:28 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:28 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:28 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 21:47:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 21:47:29 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:29 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:29 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:29 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:31 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:32 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:32 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:32 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 21:47:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 21:47:33 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:34 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:34 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:34 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:35 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:35 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:35 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:35 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 21:47:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 21:47:37 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:37 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:37 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:47:37 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 21:53:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 21:53:26 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:53:26 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:53:27 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:53:27 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:53:28 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:53:28 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:53:28 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:53:28 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:53:30 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:53:30 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:53:30 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:53:30 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:53:31 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:53:31 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:53:31 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:53:31 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 21:53:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 21:53:32 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:53:32 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:53:33 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 21:53:33 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 90.
+ 1 APPPATH\Controllers\Sensor.php(90): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 90)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.531', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-16 21:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 21:58:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 21:58:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 21:58:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-16 21:58:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-16 22:09:41 --> Division by zero
+in APPPATH\Controllers\FuzzyLogic.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\FuzzyLogic->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FuzzyLogic))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 22:10:42 --> Division by zero
+in APPPATH\Controllers\FuzzyLogic.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\FuzzyLogic->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FuzzyLogic))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-16 23:51:21 --> Division by zero
+in APPPATH\Controllers\FuzzyLogic.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\FuzzyLogic->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FuzzyLogic))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')

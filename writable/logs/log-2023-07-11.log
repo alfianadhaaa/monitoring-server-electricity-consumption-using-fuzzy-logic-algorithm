@@ -1,0 +1,140 @@
+CRITICAL - 2023-07-11 00:02:13 --> Illegal offset type
+in SYSTEMPATH\Database\BaseBuilder.php on line 741.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(698): CodeIgniter\Database\BaseBuilder->whereHaving('QBWhere', Object(Closure), null, 'AND ', null)
+ 2 SYSTEMPATH\Model.php(840): CodeIgniter\Database\BaseBuilder->where(Object(Closure))
+ 3 APPPATH\Models\ModelDetailSensor.php(35): CodeIgniter\Model->__call('where', [...])
+ 4 APPPATH\Controllers\Monitoring.php(24): App\Models\ModelDetailSensor->get_data()
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Monitoring->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Monitoring))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-11 00:02:33 --> Illegal offset type
+in SYSTEMPATH\Database\BaseBuilder.php on line 741.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(698): CodeIgniter\Database\BaseBuilder->whereHaving('QBWhere', Object(Closure), null, 'AND ', null)
+ 2 SYSTEMPATH\Model.php(840): CodeIgniter\Database\BaseBuilder->where(Object(Closure))
+ 3 APPPATH\Models\ModelDetailSensor.php(35): CodeIgniter\Model->__call('where', [...])
+ 4 APPPATH\Controllers\Monitoring.php(24): App\Models\ModelDetailSensor->get_data()
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Monitoring->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Monitoring))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-11 00:02:53 --> Illegal offset type
+in SYSTEMPATH\Database\BaseBuilder.php on line 741.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(698): CodeIgniter\Database\BaseBuilder->whereHaving('QBWhere', Object(Closure), null, 'AND ', null)
+ 2 SYSTEMPATH\Model.php(840): CodeIgniter\Database\BaseBuilder->where(Object(Closure))
+ 3 APPPATH\Models\ModelDetailSensor.php(35): CodeIgniter\Model->__call('where', [...])
+ 4 APPPATH\Controllers\Monitoring.php(24): App\Models\ModelDetailSensor->get_data()
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Monitoring->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Monitoring))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-11 16:57:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-11 16:58:08 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 76.
+ 1 APPPATH\Controllers\Sensor.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.237', 'kwh')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-11 16:58:30 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 76.
+ 1 APPPATH\Controllers\Sensor.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.237', 'voltage')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-11 16:58:52 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 76.
+ 1 APPPATH\Controllers\Sensor.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.237', 'current')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-11 16:59:13 --> Attempt to read property "state" on null
+in APPPATH\Controllers\Sensor.php on line 76.
+ 1 APPPATH\Controllers\Sensor.php(76): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "state" on null', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Sensor.php', 76)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Sensor->get_data_sensor('192.168.137.237', 'watt')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Sensor))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-11 16:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-11 16:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-11 16:59:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-11 16:59:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-07-11 19:03:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-07-11 19:36:36 --> mysqli_sql_exception: Table 'db_monelis.device' doesn't exist in D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Tugas Akhir\Codeigniter\monelis\system\Model.php(840): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Tugas Akhir\Codeigniter\monelis\app\Models\ModelDetailSensor.php(53): CodeIgniter\Model->__call('get', Array)
+#6 D:\Tugas Akhir\Codeigniter\monelis\app\Controllers\Report.php(26): App\Models\ModelDetailSensor->report()
+#7 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(934): App\Controllers\Report->index()
+#8 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Report))
+#9 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Tugas Akhir\Codeigniter\monelis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 D:\Tugas Akhir\Codeigniter\monelis\system\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\...')
+#12 {main}
+CRITICAL - 2023-07-11 19:36:36 --> Table 'db_monelis.device' doesn't exist
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `sensor_detail`
+JOIN `sensor` ON `sensor`.`id_sensor`=`sensor_detail`.`id_sensor`
+JOIN `device` ON `device`.`id_device`=`sensor`.`id_device`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `sensor_detail`
+JOIN `sensor` ON `sensor`.`id_sensor`=`sensor_detail`.`id_sensor`
+JOIN `device` ON `device`.`id_device`=`sensor`.`id_device`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `sensor_detail`
+JOIN `sensor` ON `sensor`.`id_sensor`=`sensor_detail`.`id_sensor`
+JOIN `device` ON `device`.`id_device`=`sensor`.`id_device`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `sensor_detail`
+JOIN `sensor` ON `sensor`.`id_sensor`=`sensor_detail`.`id_sensor`
+JOIN `device` ON `device`.`id_device`=`sensor`.`id_device`', [], false)
+ 5 SYSTEMPATH\Model.php(840): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Models\ModelDetailSensor.php(53): CodeIgniter\Model->__call('get', [])
+ 7 APPPATH\Controllers\Report.php(26): App\Models\ModelDetailSensor->report()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Report->index()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Report))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-11 19:37:06 --> Undefined property: CodeIgniter\Database\MySQLi\Result::$getResultArray
+in APPPATH\Controllers\Report.php on line 26.
+ 1 APPPATH\Controllers\Report.php(26): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\Database\\MySQLi\\Result::$getResultArray', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Report.php', 26)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Report->index()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Report))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-07-11 20:01:21 --> Undefined array key "ampere"
+in APPPATH\Views\content\report\report.php on line 37.
+ 1 APPPATH\Views\content\report\report.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "ampere"', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\report\\report.php', 37)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\report\\report.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/report/report', [], true)
+ 5 APPPATH\Controllers\Report.php(32): view('content/report/report', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Report->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Report))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-07-11 20:25:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-07-11 22:28:34 --> Division by zero
+in APPPATH\Controllers\FuzzyLogic.php on line 50.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\FuzzyLogic->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\FuzzyLogic))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')

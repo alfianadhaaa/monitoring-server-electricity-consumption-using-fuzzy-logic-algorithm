@@ -1,0 +1,1036 @@
+INFO - 2023-06-04 05:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-04 09:34:27 --> Cannot use object of type mysqli as array
+in APPPATH\Views\content\dashboard.php on line 71.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/dashboard', [], true)
+ 4 APPPATH\Controllers\Dashboard.php(36): view('content/dashboard', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 10:27:39 --> Undefined array key "name"
+in APPPATH\Views\content\dashboard.php on line 71.
+ 1 APPPATH\Views\content\dashboard.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\dashboard.php', 71)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/dashboard', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(36): view('content/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-06-04 11:09:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-04 11:39:56 --> Too few arguments to function App\Controllers\Dashboard::index(), 0 passed in D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Dashboard.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 11:58:37 --> Too few arguments to function App\Controllers\Dashboard::index(), 0 passed in D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php on line 934 and exactly 1 expected
+in APPPATH\Controllers\Dashboard.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 12:17:20 --> Undefined variable $devices
+in APPPATH\Views\content\dashboard.php on line 91.
+ 1 APPPATH\Views\content\dashboard.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $devices', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\dashboard.php', 91)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/dashboard', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(41): view('content/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 12:18:13 --> Undefined array key "id_device"
+in APPPATH\Views\content\dashboard.php on line 91.
+ 1 APPPATH\Views\content\dashboard.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_device"', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\dashboard.php', 91)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/dashboard', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(41): view('content/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 12:21:07 --> Undefined array key "name"
+in APPPATH\Views\content\dashboard.php on line 91.
+ 1 APPPATH\Views\content\dashboard.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\dashboard.php', 91)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/dashboard', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(41): view('content/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 12:21:46 --> Array callback must have exactly two elements
+in APPPATH\Views\content\dashboard.php on line 91.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/dashboard', [], true)
+ 4 APPPATH\Controllers\Dashboard.php(41): view('content/dashboard', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 12:27:49 --> Undefined array key "name"
+in APPPATH\Views\content\dashboard.php on line 91.
+ 1 APPPATH\Views\content\dashboard.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\dashboard.php', 91)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/dashboard', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(41): view('content/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 12:42:22 --> Undefined array key "id_device"
+in APPPATH\Views\content\dashboard.php on line 89.
+ 1 APPPATH\Views\content\dashboard.php(89): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_device"', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\dashboard.php', 89)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/dashboard', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(41): view('content/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 12:43:28 --> Undefined array key "name"
+in APPPATH\Views\content\dashboard.php on line 94.
+ 1 APPPATH\Views\content\dashboard.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "name"', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\dashboard.php', 94)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/dashboard', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(41): view('content/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->index()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+ERROR - 2023-06-04 13:07:18 --> mysqli_sql_exception: Column 'id_device' in where clause is ambiguous in D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Tugas Akhir\Codeigniter\monelis\system\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Tugas Akhir\Codeigniter\monelis\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#6 D:\Tugas Akhir\Codeigniter\monelis\app\Models\DeviceModel.php(22): CodeIgniter\BaseModel->first()
+#7 D:\Tugas Akhir\Codeigniter\monelis\app\Controllers\Dashboard.php(73): App\Models\DeviceModel->getDevice('10')
+#8 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+#9 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#10 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\Tugas Akhir\Codeigniter\monelis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 D:\Tugas Akhir\Codeigniter\monelis\system\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\...')
+#13 {main}
+CRITICAL - 2023-06-04 13:07:18 --> Column 'id_device' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = :id_device:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(656): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Models\DeviceModel.php(22): CodeIgniter\BaseModel->first()
+ 8 APPPATH\Controllers\Dashboard.php(73): App\Models\DeviceModel->getDevice('10')
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 13:08:36 --> Call to a member function join() on array
+in APPPATH\Models\DeviceModel.php on line 22.
+ 1 APPPATH\Controllers\Dashboard.php(73): App\Models\DeviceModel->getDevice('10')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+ERROR - 2023-06-04 13:08:57 --> mysqli_sql_exception: Column 'id_device' in where clause is ambiguous in D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Tugas Akhir\Codeigniter\monelis\system\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Tugas Akhir\Codeigniter\monelis\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#6 D:\Tugas Akhir\Codeigniter\monelis\app\Models\DeviceModel.php(22): CodeIgniter\BaseModel->first()
+#7 D:\Tugas Akhir\Codeigniter\monelis\app\Controllers\Dashboard.php(73): App\Models\DeviceModel->getDevice('10')
+#8 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+#9 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#10 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\Tugas Akhir\Codeigniter\monelis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 D:\Tugas Akhir\Codeigniter\monelis\system\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\...')
+#13 {main}
+CRITICAL - 2023-06-04 13:08:57 --> Column 'id_device' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = :id_device:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(656): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Models\DeviceModel.php(22): CodeIgniter\BaseModel->first()
+ 8 APPPATH\Controllers\Dashboard.php(73): App\Models\DeviceModel->getDevice('10')
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 13:22:25 --> Call to a member function getResultArray() on array
+in APPPATH\Controllers\Dashboard.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 13:32:06 --> Undefined array key "device"
+in APPPATH\Controllers\Dashboard.php on line 73.
+ 1 APPPATH\Controllers\Dashboard.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "device"', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Dashboard.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+ERROR - 2023-06-04 13:34:06 --> mysqli_sql_exception: Column 'id_device' in where clause is ambiguous in D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Tugas Akhir\Codeigniter\monelis\system\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Tugas Akhir\Codeigniter\monelis\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#6 D:\Tugas Akhir\Codeigniter\monelis\app\Models\DeviceModel.php(24): CodeIgniter\BaseModel->first()
+#7 D:\Tugas Akhir\Codeigniter\monelis\app\Controllers\Dashboard.php(71): App\Models\DeviceModel->getDevice('10')
+#8 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+#9 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#10 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\Tugas Akhir\Codeigniter\monelis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 D:\Tugas Akhir\Codeigniter\monelis\system\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\...')
+#13 {main}
+CRITICAL - 2023-06-04 13:34:06 --> Column 'id_device' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = :id_device:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(656): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Models\DeviceModel.php(24): CodeIgniter\BaseModel->first()
+ 8 APPPATH\Controllers\Dashboard.php(71): App\Models\DeviceModel->getDevice('10')
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 13:35:15 --> Too few arguments to function CodeIgniter\Database\BaseBuilder::join(), 1 passed in D:\Tugas Akhir\Codeigniter\monelis\system\Model.php on line 840 and at least 2 expected
+in SYSTEMPATH\Database\BaseBuilder.php on line 617.
+ 1 SYSTEMPATH\Model.php(840): CodeIgniter\Database\BaseBuilder->join('sensor')
+ 2 APPPATH\Models\DeviceModel.php(23): CodeIgniter\Model->__call('join', [...])
+ 3 APPPATH\Controllers\Dashboard.php(71): App\Models\DeviceModel->getDevice('10')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+ERROR - 2023-06-04 13:35:47 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`id_device`)
+WHERE `id_device` = '10'
+ LIMIT 1' at line 3 in D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Tugas Akhir\Codeigniter\monelis\system\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Tugas Akhir\Codeigniter\monelis\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#6 D:\Tugas Akhir\Codeigniter\monelis\app\Models\DeviceModel.php(24): CodeIgniter\BaseModel->first()
+#7 D:\Tugas Akhir\Codeigniter\monelis\app\Controllers\Dashboard.php(71): App\Models\DeviceModel->getDevice('10')
+#8 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+#9 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#10 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\Tugas Akhir\Codeigniter\monelis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 D:\Tugas Akhir\Codeigniter\monelis\system\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\...')
+#13 {main}
+CRITICAL - 2023-06-04 13:35:47 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.`id_device`)
+WHERE `id_device` = '10'
+ LIMIT 1' at line 3
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `devices`
+JOIN `sensor` USING (`sensor`.`id_device`)
+WHERE `id_device` = \'10\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `devices`
+JOIN `sensor` USING (`sensor`.`id_device`)
+WHERE `id_device` = \'10\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `devices`
+JOIN `sensor` USING (`sensor`.`id_device`)
+WHERE `id_device` = \'10\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `devices`
+JOIN `sensor` USING (`sensor`.`id_device`)
+WHERE `id_device` = :id_device:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(656): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Models\DeviceModel.php(24): CodeIgniter\BaseModel->first()
+ 8 APPPATH\Controllers\Dashboard.php(71): App\Models\DeviceModel->getDevice('10')
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+ERROR - 2023-06-04 13:35:57 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE `id_device` = '10'
+ LIMIT 1' at line 4 in D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Tugas Akhir\Codeigniter\monelis\system\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Tugas Akhir\Codeigniter\monelis\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#6 D:\Tugas Akhir\Codeigniter\monelis\app\Models\DeviceModel.php(24): CodeIgniter\BaseModel->first()
+#7 D:\Tugas Akhir\Codeigniter\monelis\app\Controllers\Dashboard.php(71): App\Models\DeviceModel->getDevice('10')
+#8 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+#9 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#10 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\Tugas Akhir\Codeigniter\monelis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 D:\Tugas Akhir\Codeigniter\monelis\system\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\...')
+#13 {main}
+CRITICAL - 2023-06-04 13:35:57 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE `id_device` = '10'
+ LIMIT 1' at line 4
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=
+WHERE `id_device` = \'10\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=
+WHERE `id_device` = \'10\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=
+WHERE `id_device` = \'10\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=
+WHERE `id_device` = :id_device:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(656): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Models\DeviceModel.php(24): CodeIgniter\BaseModel->first()
+ 8 APPPATH\Controllers\Dashboard.php(71): App\Models\DeviceModel->getDevice('10')
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+ERROR - 2023-06-04 13:37:39 --> mysqli_sql_exception: Column 'id_device' in where clause is ambiguous in D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Tugas Akhir\Codeigniter\monelis\system\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Tugas Akhir\Codeigniter\monelis\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#6 D:\Tugas Akhir\Codeigniter\monelis\app\Models\DeviceModel.php(26): CodeIgniter\BaseModel->first()
+#7 D:\Tugas Akhir\Codeigniter\monelis\app\Controllers\Dashboard.php(71): App\Models\DeviceModel->getDevice('10')
+#8 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+#9 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#10 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\Tugas Akhir\Codeigniter\monelis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 D:\Tugas Akhir\Codeigniter\monelis\system\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\...')
+#13 {main}
+CRITICAL - 2023-06-04 13:37:39 --> Column 'id_device' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = :id_device:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(656): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Models\DeviceModel.php(26): CodeIgniter\BaseModel->first()
+ 8 APPPATH\Controllers\Dashboard.php(71): App\Models\DeviceModel->getDevice('10')
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+ERROR - 2023-06-04 13:47:28 --> mysqli_sql_exception: Column 'id_device' in where clause is ambiguous in D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Tugas Akhir\Codeigniter\monelis\app\Models\DeviceModel.php(24): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Tugas Akhir\Codeigniter\monelis\app\Controllers\Dashboard.php(74): App\Models\DeviceModel->getDevice('10')
+#6 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+#7 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tugas Akhir\Codeigniter\monelis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tugas Akhir\Codeigniter\monelis\system\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\...')
+#11 {main}
+CRITICAL - 2023-06-04 13:47:28 --> Column 'id_device' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = :id_device:', [...], false)
+ 5 APPPATH\Models\DeviceModel.php(24): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(74): App\Models\DeviceModel->getDevice('10')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+ERROR - 2023-06-04 13:47:30 --> mysqli_sql_exception: Column 'id_device' in where clause is ambiguous in D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Tugas Akhir\Codeigniter\monelis\app\Models\DeviceModel.php(24): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Tugas Akhir\Codeigniter\monelis\app\Controllers\Dashboard.php(74): App\Models\DeviceModel->getDevice('10')
+#6 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+#7 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tugas Akhir\Codeigniter\monelis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tugas Akhir\Codeigniter\monelis\system\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\...')
+#11 {main}
+CRITICAL - 2023-06-04 13:47:30 --> Column 'id_device' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = :id_device:', [...], false)
+ 5 APPPATH\Models\DeviceModel.php(24): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(74): App\Models\DeviceModel->getDevice('10')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+ERROR - 2023-06-04 13:47:31 --> mysqli_sql_exception: Column 'id_device' in where clause is ambiguous in D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Tugas Akhir\Codeigniter\monelis\app\Models\DeviceModel.php(24): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Tugas Akhir\Codeigniter\monelis\app\Controllers\Dashboard.php(74): App\Models\DeviceModel->getDevice('10')
+#6 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+#7 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tugas Akhir\Codeigniter\monelis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tugas Akhir\Codeigniter\monelis\system\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\...')
+#11 {main}
+CRITICAL - 2023-06-04 13:47:31 --> Column 'id_device' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = :id_device:', [...], false)
+ 5 APPPATH\Models\DeviceModel.php(24): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(74): App\Models\DeviceModel->getDevice('10')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+ERROR - 2023-06-04 13:47:51 --> mysqli_sql_exception: Column 'id_device' in where clause is ambiguous in D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Tugas Akhir\Codeigniter\monelis\app\Models\DeviceModel.php(24): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Tugas Akhir\Codeigniter\monelis\app\Controllers\Dashboard.php(74): App\Models\DeviceModel->getDevice('10')
+#6 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+#7 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tugas Akhir\Codeigniter\monelis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tugas Akhir\Codeigniter\monelis\system\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\...')
+#11 {main}
+CRITICAL - 2023-06-04 13:47:51 --> Column 'id_device' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = :id_device:', [...], false)
+ 5 APPPATH\Models\DeviceModel.php(24): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(74): App\Models\DeviceModel->getDevice('10')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+ERROR - 2023-06-04 13:49:04 --> mysqli_sql_exception: Column 'id_device' in where clause is ambiguous in D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Tugas Akhir\Codeigniter\monelis\app\Models\DeviceModel.php(25): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Tugas Akhir\Codeigniter\monelis\app\Controllers\Dashboard.php(74): App\Models\DeviceModel->getDevice('10')
+#6 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+#7 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tugas Akhir\Codeigniter\monelis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tugas Akhir\Codeigniter\monelis\system\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\...')
+#11 {main}
+CRITICAL - 2023-06-04 13:49:04 --> Column 'id_device' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'
+AND `sensor`.`id_device` = \'10\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'
+AND `sensor`.`id_device` = \'10\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'
+AND `sensor`.`id_device` = \'10\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = :id_device:
+AND `sensor`.`id_device` = :sensor.id_device:', [...], false)
+ 5 APPPATH\Models\DeviceModel.php(25): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(74): App\Models\DeviceModel->getDevice('10')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+ERROR - 2023-06-04 13:49:05 --> mysqli_sql_exception: Column 'id_device' in where clause is ambiguous in D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Tugas Akhir\Codeigniter\monelis\app\Models\DeviceModel.php(25): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Tugas Akhir\Codeigniter\monelis\app\Controllers\Dashboard.php(74): App\Models\DeviceModel->getDevice('10')
+#6 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+#7 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tugas Akhir\Codeigniter\monelis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tugas Akhir\Codeigniter\monelis\system\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\...')
+#11 {main}
+CRITICAL - 2023-06-04 13:49:05 --> Column 'id_device' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'
+AND `sensor`.`id_device` = \'10\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'
+AND `sensor`.`id_device` = \'10\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'
+AND `sensor`.`id_device` = \'10\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = :id_device:
+AND `sensor`.`id_device` = :sensor.id_device:', [...], false)
+ 5 APPPATH\Models\DeviceModel.php(25): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(74): App\Models\DeviceModel->getDevice('10')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+ERROR - 2023-06-04 13:49:14 --> mysqli_sql_exception: Column 'id_device' in where clause is ambiguous in D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Tugas Akhir\Codeigniter\monelis\app\Models\DeviceModel.php(26): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Tugas Akhir\Codeigniter\monelis\app\Controllers\Dashboard.php(74): App\Models\DeviceModel->getDevice('10')
+#6 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+#7 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tugas Akhir\Codeigniter\monelis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tugas Akhir\Codeigniter\monelis\system\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\...')
+#11 {main}
+CRITICAL - 2023-06-04 13:49:14 --> Column 'id_device' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'
+AND `sensor`.`id_device` = \'10\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'
+AND `sensor`.`id_device` = \'10\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'
+AND `sensor`.`id_device` = \'10\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = :id_device:
+AND `sensor`.`id_device` = :sensor.id_device:', [...], false)
+ 5 APPPATH\Models\DeviceModel.php(26): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(74): App\Models\DeviceModel->getDevice('10')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+ERROR - 2023-06-04 13:51:51 --> mysqli_sql_exception: Column 'id_device' in where clause is ambiguous in D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Tugas Akhir\Codeigniter\monelis\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 D:\Tugas Akhir\Codeigniter\monelis\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 D:\Tugas Akhir\Codeigniter\monelis\app\Models\DeviceModel.php(24): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Tugas Akhir\Codeigniter\monelis\app\Controllers\Dashboard.php(74): App\Models\DeviceModel->getDevice('10')
+#6 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+#7 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+#8 D:\Tugas Akhir\Codeigniter\monelis\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Tugas Akhir\Codeigniter\monelis\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 D:\Tugas Akhir\Codeigniter\monelis\system\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\...')
+#11 {main}
+CRITICAL - 2023-06-04 13:51:51 --> Column 'id_device' in where clause is ambiguous
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = \'10\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `devices`
+JOIN `sensor` ON `sensor`.`id_device`=`devices`.`id_device`
+WHERE `id_device` = :id_device:', [...], false)
+ 5 APPPATH\Models\DeviceModel.php(24): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\Dashboard.php(74): App\Models\DeviceModel->getDevice('10')
+ 7 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('10')
+ 8 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 9 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-06-04 13:55:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-06-04 13:55:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-04 13:55:34 --> Cannot use object of type CodeIgniter\Database\MySQLi\Result as array
+in APPPATH\Views\content\device\edit.php on line 15.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/device/edit', [], true)
+ 4 APPPATH\Controllers\Device.php(61): view('content/device/edit', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Device->edit('1')
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Device))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+INFO - 2023-06-04 13:55:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-06-04 13:56:52 --> Undefined array key "device"
+in APPPATH\Controllers\Dashboard.php on line 74.
+ 1 APPPATH\Controllers\Dashboard.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "device"', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Dashboard.php', 74)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 13:57:02 --> Undefined array key "devices"
+in APPPATH\Controllers\Dashboard.php on line 74.
+ 1 APPPATH\Controllers\Dashboard.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "devices"', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Dashboard.php', 74)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 13:57:03 --> Undefined array key "devices"
+in APPPATH\Controllers\Dashboard.php on line 74.
+ 1 APPPATH\Controllers\Dashboard.php(74): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "devices"', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Dashboard.php', 74)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 14:04:26 --> Undefined variable $device
+in APPPATH\Views\content\modal.php on line 24.
+ 1 APPPATH\Views\content\modal.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $device', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php', 24)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/modal', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(77): view('content/modal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 14:04:48 --> Undefined array key "id_device"
+in APPPATH\Views\content\modal.php on line 24.
+ 1 APPPATH\Views\content\modal.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_device"', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php', 24)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/modal', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(77): view('content/modal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 14:09:21 --> Undefined array key "id_device"
+in APPPATH\Views\content\modal.php on line 24.
+ 1 APPPATH\Views\content\modal.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_device"', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php', 24)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/modal', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(77): view('content/modal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 14:09:29 --> Undefined array key "id_device"
+in APPPATH\Views\content\modal.php on line 24.
+ 1 APPPATH\Views\content\modal.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id_device"', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php', 24)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/modal', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(77): view('content/modal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 14:09:50 --> Undefined variable $device
+in APPPATH\Views\content\modal.php on line 24.
+ 1 APPPATH\Views\content\modal.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $device', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php', 24)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/modal', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(77): view('content/modal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 14:11:46 --> Undefined variable $device
+in APPPATH\Views\content\modal.php on line 24.
+ 1 APPPATH\Views\content\modal.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $device', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php', 24)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/modal', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(75): view('content/modal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 14:11:47 --> Undefined variable $device
+in APPPATH\Views\content\modal.php on line 24.
+ 1 APPPATH\Views\content\modal.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $device', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php', 24)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/modal', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(75): view('content/modal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 14:16:11 --> Undefined variable $device
+in APPPATH\Views\content\modal.php on line 24.
+ 1 APPPATH\Views\content\modal.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $device', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php', 24)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/modal', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(77): view('content/modal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 14:16:27 --> Undefined variable $data
+in APPPATH\Views\content\modal.php on line 24.
+ 1 APPPATH\Views\content\modal.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php', 24)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/modal', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(77): view('content/modal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 14:16:52 --> Undefined variable $data
+in APPPATH\Views\content\modal.php on line 11.
+ 1 APPPATH\Views\content\modal.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/modal', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(77): view('content/modal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 14:16:53 --> Undefined variable $data
+in APPPATH\Views\content\modal.php on line 11.
+ 1 APPPATH\Views\content\modal.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/modal', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(77): view('content/modal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 14:16:59 --> Undefined variable $device
+in APPPATH\Views\content\modal.php on line 11.
+ 1 APPPATH\Views\content\modal.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $device', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/modal', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(77): view('content/modal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 14:18:16 --> Undefined variable $device
+in APPPATH\Views\content\modal.php on line 11.
+ 1 APPPATH\Views\content\modal.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $device', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/modal', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(77): view('content/modal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 14:18:29 --> Undefined variable $model_data
+in APPPATH\Views\content\modal.php on line 11.
+ 1 APPPATH\Views\content\modal.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $model_data', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/modal', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(77): view('content/modal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 14:18:31 --> Undefined variable $model_data
+in APPPATH\Views\content\modal.php on line 11.
+ 1 APPPATH\Views\content\modal.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $model_data', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/modal', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(77): view('content/modal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 14:22:45 --> Call to a member function getResultArray() on array
+in APPPATH\Controllers\Dashboard.php on line 71.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 14:23:04 --> Undefined array key 0
+in APPPATH\Controllers\Dashboard.php on line 77.
+ 1 APPPATH\Controllers\Dashboard.php(77): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Controllers\\Dashboard.php', 77)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 14:23:28 --> Undefined variable $model_data
+in APPPATH\Views\content\modal.php on line 11.
+ 1 APPPATH\Views\content\modal.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $model_data', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/modal', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(77): view('content/modal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 14:23:59 --> Undefined variable $model_data
+in APPPATH\Views\content\modal.php on line 11.
+ 1 APPPATH\Views\content\modal.php(11): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $model_data', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php', 11)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/modal', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(77): view('content/modal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
+CRITICAL - 2023-06-04 14:24:08 --> Undefined variable $data
+in APPPATH\Views\content\modal.php on line 24.
+ 1 APPPATH\Views\content\modal.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $data', 'D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php', 24)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Tugas Akhir\\Codeigniter\\monelis\\app\\Views\\content\\modal.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('content/modal', [], true)
+ 5 APPPATH\Controllers\Dashboard.php(77): view('content/modal', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Dashboard->showAlert('18')
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Dashboard))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('D:\\Tugas Akhir\\Codeigniter\\monelis\\public\\index.php')
